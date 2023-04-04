@@ -1,2 +1,2 @@
-# Ejercicios_Bioestad-stica_R
+# Ejercicios_Bioestadistica_R
 Ejercicios del Máster de Bioestadística
